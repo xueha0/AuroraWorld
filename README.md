@@ -31,4 +31,4 @@ If you find this work useful, please consider citing:
   journal={arXiv preprint arXiv:2611.00177},
   year={2026}
 }
-```# AuroraWorld
+```
